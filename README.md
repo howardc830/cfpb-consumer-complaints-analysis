@@ -2,9 +2,11 @@
 
 An analysis of nearly 18 million complaints from the Consumer Financial Protection Bureau (CFPB), exploring why complaint volume has exploded in recent years, which companies receive those complaints, and how reliably companies report their responses.
 
-**[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/christopher.howard3423/viz/CFPBConsumerComplaintsAnalysis/CFPBComplaintsDashboard)**
+**[View the interactive dashboard on Tableau Public]
+https://public.tableau.com/app/profile/christopher.howard3423/viz/CFPBConsumerComplaintsAnalysis/CFPBComplaintsDashboard?publish=yes
 
-![Dashboard preview](images/dashboard.png)
+<img width="995" height="567" alt="CFPB Consumer Complaints Analysis Dashboard" src="https://github.com/user-attachments/assets/cd3425ca-f02e-47ad-ae4f-61a9c5d5114f" />
+
 
 ## Key Findings
 
@@ -72,22 +74,11 @@ Rather than connecting Tableau to 17.9 million rows, I used SQL to export three 
 
 ## How to Reproduce
 
-1. Download the full complaint dataset (CSV) from the [CFPB website](https://www.consumerfinance.gov/data-research/consumer-complaints/) and extract it.
+1. Download the full complaint dataset (CSV) from the CFPB website https://www.consumerfinance.gov/data-research/consumer-complaints/ and extract it.
 2. Install DuckDB: `pip install duckdb`
 3. Update the file path in the notebook to point to your downloaded CSV, then run the notebook from top to bottom. It creates the database, the cleaned table, and the summary CSVs used by the dashboard.
 
-## Repository Structure
 
-```
-├── README.md
-├── cfpb_analysis.ipynb       # Data loading, cleaning, analysis, and exports
-├── dashboard_data/           # Aggregated CSVs used in Tableau
-│   ├── monthly_summary.csv
-│   ├── state_summary.csv
-│   └── credit_reporting_issues.csv
-└── images/
-    └── dashboard.png         # Dashboard screenshot
-```
 
 ## Author
 

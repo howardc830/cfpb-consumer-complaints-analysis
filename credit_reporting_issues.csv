@@ -1,0 +1,479 @@
+year,company,issue,complaints
+2023,"EQUIFAX, INC.",Incorrect information on your report,134579
+2023,"EQUIFAX, INC.",Improper use of your report,100348
+2023,Experian Information Solutions Inc.,Credit monitoring or identity theft protection services,916
+2023,"EQUIFAX, INC.",Identity theft protection or other monitoring services,36
+2023,Experian Information Solutions Inc.,Confusing or misleading advertising or marketing,32
+2023,"EQUIFAX, INC.",Problem with a company's investigation into an existing issue,90
+2023,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Confusing or missing disclosures,29
+2023,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a company's investigation into an existing problem,26845
+2024,Experian Information Solutions Inc.,Incorrect information on your report,367829
+2024,Experian Information Solutions Inc.,Improper use of your report,210698
+2024,"EQUIFAX, INC.",Credit monitoring or identity theft protection services,3086
+2024,Experian Information Solutions Inc.,Problem with a company's investigation into an existing issue,181
+2024,Experian Information Solutions Inc.,Identity theft protection or other monitoring services,90
+2025,Experian Information Solutions Inc.,Problem with a company's investigation into an existing problem,260224
+2026,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Improper use of your report,374577
+2026,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Incorrect information on your report,1032137
+2026,Experian Information Solutions Inc.,Unable to get your credit report or credit score,2972
+2026,Experian Information Solutions Inc.,Problem with fraud alerts or security freezes,2885
+2026,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a company's investigation into an existing issue,985
+2026,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Identity theft protection or other monitoring services,35
+2017,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit monitoring or identity theft protection services,169
+2017,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Confusing or misleading advertising or marketing,3
+2017,"EQUIFAX, INC.",Excessive fees,1
+2018,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Incorrect information on your report,17045
+2018,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Improper use of your report,2956
+2018,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Identity theft protection or other monitoring services,15
+2022,Experian Information Solutions Inc.,Problem with a credit reporting company's investigation into an existing problem,44623
+2022,Experian Information Solutions Inc.,Getting a credit card,2
+2022,Experian Information Solutions Inc.,Fraud or scam,99
+2022,"EQUIFAX, INC.",Confusing or missing disclosures,27
+2017,Experian Information Solutions Inc.,Improper use of my credit report,177
+2017,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit monitoring or identity protection,114
+2023,"EQUIFAX, INC.",Problem with customer service,23
+2019,Experian Information Solutions Inc.,Credit monitoring or identity theft protection services,274
+2019,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Confusing or missing disclosures,4
+2019,Experian Information Solutions Inc.,Confusing or misleading advertising or marketing,12
+2021,"EQUIFAX, INC.",Credit monitoring or identity theft protection services,924
+2021,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Confusing or missing disclosures,2
+2012,Experian Information Solutions Inc.,Incorrect information on credit report,502
+2012,Experian Information Solutions Inc.,Credit reporting company's investigation,123
+2012,"EQUIFAX, INC.",Unable to get credit report/credit score,71
+2013,Experian Information Solutions Inc.,Improper use of my credit report,227
+2013,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Incorrect information on credit report,2428
+2013,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit reporting company's investigation,463
+2013,"EQUIFAX, INC.",Improper use of my credit report,216
+2018,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with customer service,9
+2018,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a company's investigation into an existing issue,11
+2021,"EQUIFAX, INC.",Confusing or misleading advertising or marketing,7
+2021,Experian Information Solutions Inc.,Excessive fees,4
+2024,Experian Information Solutions Inc.,Problems at the end of the loan or lease,1
+2025,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a purchase shown on your statement,1
+2023,Experian Information Solutions Inc.,Problem with a credit reporting company's investigation into an existing problem,51281
+2023,Experian Information Solutions Inc.,Fraud or scam,145
+2024,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unable to get your credit report or credit score,1725
+2024,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with fraud alerts or security freezes,1686
+2025,"EQUIFAX, INC.",Improper use of your report,375851
+2025,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a company's investigation into an existing problem,266016
+2025,"EQUIFAX, INC.",Incorrect information on your report,962934
+2025,"EQUIFAX, INC.",Identity theft protection or other monitoring services,74
+2025,"EQUIFAX, INC.",Problem with a company's investigation into an existing issue,346
+2026,"EQUIFAX, INC.",Problem with a company's investigation into an existing problem,270188
+2017,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a credit reporting company's investigation into an existing problem,4183
+2017,Experian Information Solutions Inc.,Problem with fraud alerts or security freezes,594
+2017,Experian Information Solutions Inc.,Unable to get your credit report or credit score,476
+2017,"EQUIFAX, INC.",Confusing or missing disclosures,3
+2017,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Fraud or scam,2
+2017,Experian Information Solutions Inc.,Unexpected or other fees,2
+2018,Experian Information Solutions Inc.,Unable to get your credit report or credit score,625
+2018,Experian Information Solutions Inc.,Problem with fraud alerts or security freezes,715
+2020,Experian Information Solutions Inc.,Problem with fraud alerts or security freezes,904
+2020,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with fraud alerts or security freezes,418
+2020,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unable to get your credit report or credit score,761
+2020,Experian Information Solutions Inc.,Unable to get your credit report or credit score,910
+2020,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unexpected or other fees,5
+2020,"EQUIFAX, INC.",Confusing or missing disclosures,4
+2022,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Incorrect information on your report,68328
+2022,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Improper use of your report,63135
+2022,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a company's investigation into an existing issue,112
+2022,Experian Information Solutions Inc.,Credit monitoring or identity theft protection services,1015
+2022,Experian Information Solutions Inc.,Confusing or misleading advertising or marketing,30
+2022,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Identity theft protection or other monitoring services,22
+2022,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with customer service,33
+2022,"EQUIFAX, INC.",Excessive fees,4
+2017,"EQUIFAX, INC.",Incorrect information on credit report,3569
+2016,Experian Information Solutions Inc.,Incorrect information on credit report,9995
+2016,Experian Information Solutions Inc.,Credit reporting company's investigation,1782
+2017,Experian Information Solutions Inc.,Unable to get credit report/credit score,243
+2017,"EQUIFAX, INC.",Credit reporting company's investigation,833
+2019,"EQUIFAX, INC.",Incorrect information on your report,25642
+2019,"EQUIFAX, INC.",Improper use of your report,2514
+2019,Experian Information Solutions Inc.,Problem with a credit reporting company's investigation into an existing problem,8173
+2019,Experian Information Solutions Inc.,Fraud or scam,10
+2019,"EQUIFAX, INC.",Problem with customer service,10
+2019,"EQUIFAX, INC.",Problem with a company's investigation into an existing issue,39
+2019,"EQUIFAX, INC.",Identity theft protection or other monitoring services,21
+2021,"EQUIFAX, INC.",Problem with a credit reporting company's investigation into an existing problem,55059
+2021,"EQUIFAX, INC.",Fraud or scam,34
+2021,Experian Information Solutions Inc.,Confusing or missing disclosures,11
+2022,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Getting a loan or lease,1
+2014,Experian Information Solutions Inc.,Incorrect information on credit report,7531
+2014,Experian Information Solutions Inc.,Credit reporting company's investigation,1121
+2013,Experian Information Solutions Inc.,Unable to get credit report/credit score,540
+2013,"EQUIFAX, INC.",Unable to get credit report/credit score,722
+2014,"EQUIFAX, INC.",Credit monitoring or identity protection,330
+2014,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit monitoring or identity protection,254
+2012,"EQUIFAX, INC.",Improper use of my credit report,17
+2018,Experian Information Solutions Inc.,Unexpected or other fees,4
+2018,"EQUIFAX, INC.",Confusing or missing disclosures,2
+2020,Experian Information Solutions Inc.,Unexpected or other fees,4
+2019,"EQUIFAX, INC.",Getting a loan or lease,1
+2023,Experian Information Solutions Inc.,Problem with fraud alerts or security freezes,875
+2023,Experian Information Solutions Inc.,Unable to get your credit report or credit score,1165
+2023,Experian Information Solutions Inc.,Unexpected or other fees,15
+2024,"EQUIFAX, INC.",Problem with fraud alerts or security freezes,2176
+2024,"EQUIFAX, INC.",Unable to get your credit report or credit score,3043
+2025,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Improper use of your report,372318
+2025,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Incorrect information on your report,924588
+2025,"EQUIFAX, INC.",Problem with a company's investigation into an existing problem,291466
+2025,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Identity theft protection or other monitoring services,80
+2025,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a company's investigation into an existing issue,319
+2026,"EQUIFAX, INC.",Incorrect information on your report,849962
+2026,"EQUIFAX, INC.",Improper use of your report,298651
+2026,Experian Information Solutions Inc.,Credit monitoring or identity theft protection services,1481
+2026,"EQUIFAX, INC.",Problem with a company's investigation into an existing issue,805
+2026,"EQUIFAX, INC.",Identity theft protection or other monitoring services,44
+2017,"EQUIFAX, INC.",Incorrect information on your report,9897
+2017,Experian Information Solutions Inc.,Problem with a credit reporting company's investigation into an existing problem,4084
+2017,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unable to get your credit report or credit score,462
+2017,"EQUIFAX, INC.",Improper use of your report,7993
+2017,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with fraud alerts or security freezes,604
+2017,"EQUIFAX, INC.",Identity theft protection or other monitoring services,65
+2017,"EQUIFAX, INC.",Problem with a company's investigation into an existing issue,30
+2017,Experian Information Solutions Inc.,Fraud or scam,7
+2017,"EQUIFAX, INC.",Problem with customer service,20
+2017,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unexpected or other fees,4
+2018,"EQUIFAX, INC.",Incorrect information on your report,17965
+2018,Experian Information Solutions Inc.,Problem with a credit reporting company's investigation into an existing problem,6932
+2018,"EQUIFAX, INC.",Improper use of your report,2629
+2018,Experian Information Solutions Inc.,Fraud or scam,4
+2018,"EQUIFAX, INC.",Identity theft protection or other monitoring services,27
+2020,"EQUIFAX, INC.",Incorrect information on your report,52037
+2020,Experian Information Solutions Inc.,Problem with a credit reporting company's investigation into an existing problem,21222
+2020,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a credit reporting company's investigation into an existing problem,18401
+2020,"EQUIFAX, INC.",Improper use of your report,3533
+2020,"EQUIFAX, INC.",Identity theft protection or other monitoring services,27
+2020,"EQUIFAX, INC.",Problem with a company's investigation into an existing issue,44
+2020,"EQUIFAX, INC.",Problem with customer service,19
+2020,Experian Information Solutions Inc.,Fraud or scam,21
+2020,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Fraud or scam,10
+2022,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Confusing or missing disclosures,35
+2015,Experian Information Solutions Inc.,Incorrect information on credit report,7680
+2015,Experian Information Solutions Inc.,Credit reporting company's investigation,1406
+2023,"TRANSUNION INTERMEDIATE HOLDINGS, INC.","Other features, terms, or problems",1
+2024,"EQUIFAX, INC.",Getting a loan,2
+2017,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unable to get credit report/credit score,222
+2019,Experian Information Solutions Inc.,Unable to get your credit report or credit score,764
+2019,Experian Information Solutions Inc.,Problem with fraud alerts or security freezes,1027
+2019,Experian Information Solutions Inc.,Unexpected or other fees,6
+2019,"EQUIFAX, INC.",Confusing or missing disclosures,9
+2021,Experian Information Solutions Inc.,Incorrect information on your report,20622
+2021,Experian Information Solutions Inc.,Improper use of your report,3275
+2021,Experian Information Solutions Inc.,Problem with a company's investigation into an existing issue,33
+2021,"EQUIFAX, INC.",Unable to get your credit report or credit score,1632
+2021,"EQUIFAX, INC.",Problem with fraud alerts or security freezes,584
+2021,Experian Information Solutions Inc.,Problem with customer service,19
+2021,Experian Information Solutions Inc.,Identity theft protection or other monitoring services,24
+2014,"EQUIFAX, INC.",Improper use of my credit report,234
+2014,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Improper use of my credit report,232
+2012,"EQUIFAX, INC.",Credit monitoring or identity protection,22
+2018,"EQUIFAX, INC.",Problem with customer service,8
+2018,"EQUIFAX, INC.",Problem with a company's investigation into an existing issue,24
+2021,"EQUIFAX, INC.",Unexpected or other fees,4
+2018,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Excessive fees,1
+2018,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with the payoff process at the end of the loan,1
+2023,"EQUIFAX, INC.",Excessive fees,1
+2023,Experian Information Solutions Inc.,Getting a loan,1
+2025,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problems at the end of the loan or lease,1
+2023,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a credit reporting company's investigation into an existing problem,60578
+2023,"EQUIFAX, INC.",Problem with fraud alerts or security freezes,840
+2023,"EQUIFAX, INC.",Unable to get your credit report or credit score,2206
+2023,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Fraud or scam,137
+2023,"EQUIFAX, INC.",Unexpected or other fees,6
+2024,Experian Information Solutions Inc.,Problem with fraud alerts or security freezes,2225
+2024,Experian Information Solutions Inc.,Unable to get your credit report or credit score,2146
+2025,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit monitoring or identity theft protection services,1994
+2026,Experian Information Solutions Inc.,Improper use of your report,275719
+2026,Experian Information Solutions Inc.,Incorrect information on your report,870031
+2026,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with fraud alerts or security freezes,2477
+2026,"EQUIFAX, INC.",Credit monitoring or identity theft protection services,1286
+2026,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unable to get your credit report or credit score,1377
+2026,Experian Information Solutions Inc.,Problem with a company's investigation into an existing issue,1014
+2026,Experian Information Solutions Inc.,Identity theft protection or other monitoring services,90
+2017,"EQUIFAX, INC.",Credit monitoring or identity theft protection services,639
+2017,"EQUIFAX, INC.",Confusing or misleading advertising or marketing,11
+2017,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Excessive fees,1
+2017,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Closing on a mortgage,1
+2018,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unable to get your credit report or credit score,516
+2018,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with fraud alerts or security freezes,356
+2018,"EQUIFAX, INC.",Credit monitoring or identity theft protection services,182
+2018,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unexpected or other fees,6
+2020,"EQUIFAX, INC.",Credit monitoring or identity theft protection services,203
+2020,"EQUIFAX, INC.",Confusing or misleading advertising or marketing,5
+2022,"EQUIFAX, INC.",Problem with a credit reporting company's investigation into an existing problem,47149
+2022,"EQUIFAX, INC.",Fraud or scam,65
+2022,Experian Information Solutions Inc.,Confusing or missing disclosures,63
+2016,Experian Information Solutions Inc.,Credit monitoring or identity protection,508
+2015,Experian Information Solutions Inc.,Improper use of my credit report,431
+2015,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unable to get credit report/credit score,643
+2016,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unable to get credit report/credit score,690
+2016,"EQUIFAX, INC.",Unable to get credit report/credit score,1039
+2015,"EQUIFAX, INC.",Unable to get credit report/credit score,987
+2017,"EQUIFAX, INC.",Credit monitoring or identity protection,119
+2019,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a credit reporting company's investigation into an existing problem,8404
+2019,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Fraud or scam,8
+2019,Experian Information Solutions Inc.,Excessive fees,1
+2021,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a credit reporting company's investigation into an existing problem,22335
+2021,Experian Information Solutions Inc.,Credit monitoring or identity theft protection services,331
+2021,Experian Information Solutions Inc.,Confusing or misleading advertising or marketing,22
+2021,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Fraud or scam,29
+2014,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Incorrect information on credit report,6224
+2014,"EQUIFAX, INC.",Incorrect information on credit report,7002
+2014,Experian Information Solutions Inc.,Credit monitoring or identity protection,414
+2014,"EQUIFAX, INC.",Credit reporting company's investigation,1067
+2014,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit reporting company's investigation,695
+2012,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unable to get credit report/credit score,42
+2018,"EQUIFAX, INC.",Confusing or misleading advertising or marketing,5
+2022,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Closing an account,1
+2021,"EQUIFAX, INC.",Excessive fees,1
+2022,"EQUIFAX, INC.",Getting a credit card,1
+2023,Experian Information Solutions Inc.,Excessive fees,2
+2023,"EQUIFAX, INC.",Getting a loan,1
+2025,Experian Information Solutions Inc.,Dealing with your lender or servicer,1
+2023,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Incorrect information on your report,141914
+2023,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Improper use of your report,103827
+2023,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a company's investigation into an existing issue,112
+2023,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with customer service,26
+2023,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Identity theft protection or other monitoring services,34
+2023,"EQUIFAX, INC.",Confusing or missing disclosures,33
+2023,"EQUIFAX, INC.",Problem with a company's investigation into an existing problem,26786
+2024,Experian Information Solutions Inc.,Problem with a company's investigation into an existing problem,144767
+2024,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit monitoring or identity theft protection services,3336
+2025,Experian Information Solutions Inc.,Incorrect information on your report,798237
+2025,Experian Information Solutions Inc.,Improper use of your report,294699
+2025,Experian Information Solutions Inc.,Identity theft protection or other monitoring services,105
+2025,Experian Information Solutions Inc.,Problem with a company's investigation into an existing issue,436
+2026,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a company's investigation into an existing problem,331629
+2017,Experian Information Solutions Inc.,Credit monitoring or identity theft protection services,213
+2018,Experian Information Solutions Inc.,Credit monitoring or identity theft protection services,372
+2020,Experian Information Solutions Inc.,Credit monitoring or identity theft protection services,294
+2020,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit monitoring or identity theft protection services,307
+2020,Experian Information Solutions Inc.,Confusing or misleading advertising or marketing,20
+2020,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Confusing or misleading advertising or marketing,5
+2022,"EQUIFAX, INC.",Incorrect information on your report,66957
+2022,"EQUIFAX, INC.",Improper use of your report,63633
+2022,Experian Information Solutions Inc.,Unable to get your credit report or credit score,1939
+2022,"EQUIFAX, INC.",Problem with a company's investigation into an existing issue,134
+2022,Experian Information Solutions Inc.,Problem with fraud alerts or security freezes,616
+2022,"EQUIFAX, INC.",Problem with customer service,24
+2022,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Excessive fees,1
+2022,Experian Information Solutions Inc.,Unexpected or other fees,70
+2016,"EQUIFAX, INC.",Incorrect information on credit report,11650
+2015,"EQUIFAX, INC.",Credit reporting company's investigation,1383
+2016,"EQUIFAX, INC.",Credit reporting company's investigation,2134
+2015,"EQUIFAX, INC.",Incorrect information on credit report,8837
+2016,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Incorrect information on credit report,9884
+2015,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Incorrect information on credit report,7860
+2016,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit reporting company's investigation,1444
+2015,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit reporting company's investigation,940
+2017,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Improper use of my credit report,161
+2017,Experian Information Solutions Inc.,Credit monitoring or identity protection,146
+2019,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Incorrect information on your report,25106
+2019,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Improper use of your report,2642
+2019,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a company's investigation into an existing issue,15
+2019,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with customer service,10
+2019,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Identity theft protection or other monitoring services,6
+2019,"EQUIFAX, INC.",Excessive fees,1
+2021,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Incorrect information on your report,35314
+2021,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Improper use of your report,5472
+2021,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with customer service,12
+2021,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a company's investigation into an existing issue,33
+2021,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Identity theft protection or other monitoring services,11
+2022,"EQUIFAX, INC.",Identity theft protection or other monitoring services,25
+2014,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unable to get credit report/credit score,605
+2013,Experian Information Solutions Inc.,Credit monitoring or identity protection,206
+2014,"EQUIFAX, INC.",Unable to get credit report/credit score,1300
+2013,"EQUIFAX, INC.",Credit monitoring or identity protection,154
+2012,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Incorrect information on credit report,319
+2012,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit reporting company's investigation,69
+2018,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Confusing or missing disclosures,2
+2018,Experian Information Solutions Inc.,Confusing or misleading advertising or marketing,2
+2017,Experian Information Solutions Inc.,Confusing or misleading advertising or marketing,1
+2019,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Getting a loan or lease,1
+2023,"EQUIFAX, INC.",Problem with a credit reporting company's investigation into an existing problem,58241
+2023,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unable to get your credit report or credit score,1688
+2023,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with fraud alerts or security freezes,806
+2023,"EQUIFAX, INC.",Fraud or scam,133
+2025,Experian Information Solutions Inc.,Problem with fraud alerts or security freezes,2971
+2025,"EQUIFAX, INC.",Credit monitoring or identity theft protection services,1940
+2025,Experian Information Solutions Inc.,Unable to get your credit report or credit score,3028
+2026,Experian Information Solutions Inc.,Problem with a company's investigation into an existing problem,284471
+2018,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a credit reporting company's investigation into an existing problem,6309
+2018,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Fraud or scam,3
+2020,Experian Information Solutions Inc.,Excessive fees,5
+2022,Experian Information Solutions Inc.,Incorrect information on your report,64985
+2022,Experian Information Solutions Inc.,Improper use of your report,61838
+2022,Experian Information Solutions Inc.,Problem with a company's investigation into an existing issue,129
+2022,"EQUIFAX, INC.",Unable to get your credit report or credit score,3167
+2022,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit monitoring or identity theft protection services,977
+2022,"EQUIFAX, INC.",Problem with fraud alerts or security freezes,551
+2022,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Confusing or misleading advertising or marketing,17
+2022,"EQUIFAX, INC.",Unexpected or other fees,6
+2022,Experian Information Solutions Inc.,Identity theft protection or other monitoring services,28
+2022,Experian Information Solutions Inc.,Problem with customer service,33
+2016,Experian Information Solutions Inc.,Improper use of my credit report,667
+2015,Experian Information Solutions Inc.,Credit monitoring or identity protection,393
+2017,"EQUIFAX, INC.",Improper use of my credit report,165
+2023,Experian Information Solutions Inc.,"Other features, terms, or problems",1
+2019,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unable to get your credit report or credit score,587
+2019,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with fraud alerts or security freezes,433
+2019,"EQUIFAX, INC.",Credit monitoring or identity theft protection services,168
+2019,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unexpected or other fees,12
+2019,"EQUIFAX, INC.",Confusing or misleading advertising or marketing,5
+2021,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unable to get your credit report or credit score,820
+2021,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with fraud alerts or security freezes,294
+2021,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unexpected or other fees,8
+2022,Experian Information Solutions Inc.,Getting a loan or lease,1
+2014,Experian Information Solutions Inc.,Improper use of my credit report,269
+2012,"EQUIFAX, INC.",Credit reporting company's investigation,110
+2012,"EQUIFAX, INC.",Incorrect information on credit report,391
+2013,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unable to get credit report/credit score,400
+2012,Experian Information Solutions Inc.,Unable to get credit report/credit score,40
+2018,Experian Information Solutions Inc.,Excessive fees,3
+2020,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Excessive fees,1
+2017,Experian Information Solutions Inc.,Excessive fees,1
+2023,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unexpected or other fees,7
+2023,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Getting a loan,1
+2023,Experian Information Solutions Inc.,Improper use of your report,93203
+2023,Experian Information Solutions Inc.,Incorrect information on your report,126554
+2023,"EQUIFAX, INC.",Credit monitoring or identity theft protection services,783
+2023,Experian Information Solutions Inc.,Problem with customer service,38
+2023,Experian Information Solutions Inc.,Problem with a company's investigation into an existing issue,96
+2023,Experian Information Solutions Inc.,Identity theft protection or other monitoring services,55
+2024,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a company's investigation into an existing problem,148888
+2024,"EQUIFAX, INC.",Incorrect information on your report,363857
+2024,"EQUIFAX, INC.",Improper use of your report,217450
+2024,Experian Information Solutions Inc.,Credit monitoring or identity theft protection services,3616
+2024,"EQUIFAX, INC.",Problem with a company's investigation into an existing issue,156
+2024,"EQUIFAX, INC.",Identity theft protection or other monitoring services,52
+2025,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unable to get your credit report or credit score,1878
+2025,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with fraud alerts or security freezes,2877
+2026,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit monitoring or identity theft protection services,1256
+2026,"EQUIFAX, INC.",Unable to get your credit report or credit score,8497
+2026,"EQUIFAX, INC.",Problem with fraud alerts or security freezes,3181
+2017,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Incorrect information on your report,9007
+2017,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Improper use of your report,2454
+2017,"EQUIFAX, INC.",Unable to get your credit report or credit score,708
+2017,"EQUIFAX, INC.",Problem with fraud alerts or security freezes,1134
+2017,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with customer service,9
+2017,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a company's investigation into an existing issue,15
+2017,"EQUIFAX, INC.",Unexpected or other fees,5
+2017,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Identity theft protection or other monitoring services,17
+2018,"EQUIFAX, INC.",Problem with fraud alerts or security freezes,538
+2018,"EQUIFAX, INC.",Unable to get your credit report or credit score,880
+2018,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit monitoring or identity theft protection services,221
+2018,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Confusing or misleading advertising or marketing,4
+2020,"EQUIFAX, INC.",Problem with fraud alerts or security freezes,873
+2020,"EQUIFAX, INC.",Unable to get your credit report or credit score,1423
+2020,Experian Information Solutions Inc.,Confusing or missing disclosures,7
+2020,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Confusing or missing disclosures,4
+2022,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a credit reporting company's investigation into an existing problem,48748
+2022,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Fraud or scam,66
+2017,Experian Information Solutions Inc.,Incorrect information on credit report,3314
+2017,Experian Information Solutions Inc.,Credit reporting company's investigation,683
+2016,Experian Information Solutions Inc.,Unable to get credit report/credit score,909
+2015,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit monitoring or identity protection,267
+2016,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit monitoring or identity protection,412
+2016,"EQUIFAX, INC.",Credit monitoring or identity protection,439
+2017,"EQUIFAX, INC.",Unable to get credit report/credit score,332
+2015,"EQUIFAX, INC.",Credit monitoring or identity protection,308
+2023,"EQUIFAX, INC.",Confusing or misleading advertising or marketing,19
+2019,Experian Information Solutions Inc.,Incorrect information on your report,23471
+2019,"EQUIFAX, INC.",Problem with a credit reporting company's investigation into an existing problem,9178
+2019,Experian Information Solutions Inc.,Improper use of your report,1981
+2019,Experian Information Solutions Inc.,Problem with a company's investigation into an existing issue,28
+2019,Experian Information Solutions Inc.,Problem with customer service,18
+2019,Experian Information Solutions Inc.,Identity theft protection or other monitoring services,41
+2019,"EQUIFAX, INC.",Fraud or scam,8
+2021,"EQUIFAX, INC.",Incorrect information on your report,74874
+2021,"EQUIFAX, INC.",Improper use of your report,13290
+2021,Experian Information Solutions Inc.,Unable to get your credit report or credit score,890
+2021,Experian Information Solutions Inc.,Problem with fraud alerts or security freezes,463
+2021,Experian Information Solutions Inc.,Unexpected or other fees,7
+2021,"EQUIFAX, INC.",Identity theft protection or other monitoring services,23
+2021,"EQUIFAX, INC.",Problem with a company's investigation into an existing issue,61
+2013,Experian Information Solutions Inc.,Incorrect information on credit report,3460
+2014,Experian Information Solutions Inc.,Unable to get credit report/credit score,864
+2013,Experian Information Solutions Inc.,Credit reporting company's investigation,805
+2012,Experian Information Solutions Inc.,Improper use of my credit report,29
+2013,"EQUIFAX, INC.",Incorrect information on credit report,3017
+2013,"EQUIFAX, INC.",Credit reporting company's investigation,644
+2013,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Improper use of my credit report,167
+2012,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit monitoring or identity protection,14
+2018,"EQUIFAX, INC.",Unexpected or other fees,4
+2018,Experian Information Solutions Inc.,Confusing or missing disclosures,7
+2021,"EQUIFAX, INC.",Problem with customer service,12
+2020,"EQUIFAX, INC.",Unexpected or other fees,2
+2022,"EQUIFAX, INC.",Closing an account,1
+2017,Experian Information Solutions Inc.,Confusing or missing disclosures,1
+2025,"EQUIFAX, INC.",Dealing with your lender or servicer,1
+2019,Experian Information Solutions Inc.,Getting a loan or lease,1
+2023,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit monitoring or identity theft protection services,771
+2023,Experian Information Solutions Inc.,Confusing or missing disclosures,42
+2023,Experian Information Solutions Inc.,Problem with a company's investigation into an existing problem,26933
+2024,"EQUIFAX, INC.",Problem with a company's investigation into an existing problem,140369
+2024,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Improper use of your report,226461
+2024,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Incorrect information on your report,383817
+2024,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Identity theft protection or other monitoring services,48
+2024,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a company's investigation into an existing issue,179
+2025,Experian Information Solutions Inc.,Credit monitoring or identity theft protection services,2186
+2025,"EQUIFAX, INC.",Problem with fraud alerts or security freezes,3898
+2025,"EQUIFAX, INC.",Unable to get your credit report or credit score,8465
+2017,Experian Information Solutions Inc.,Incorrect information on your report,9446
+2017,Experian Information Solutions Inc.,Improper use of your report,1947
+2017,"EQUIFAX, INC.",Problem with a credit reporting company's investigation into an existing problem,4829
+2017,Experian Information Solutions Inc.,Problem with customer service,9
+2017,"EQUIFAX, INC.",Fraud or scam,9
+2017,Experian Information Solutions Inc.,Identity theft protection or other monitoring services,13
+2017,Experian Information Solutions Inc.,Problem with a company's investigation into an existing issue,12
+2017,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Confusing or missing disclosures,2
+2018,Experian Information Solutions Inc.,Problem with customer service,19
+2018,"EQUIFAX, INC.",Problem with a credit reporting company's investigation into an existing problem,6778
+2018,Experian Information Solutions Inc.,Incorrect information on your report,17903
+2018,Experian Information Solutions Inc.,Improper use of your report,2299
+2018,Experian Information Solutions Inc.,Problem with a company's investigation into an existing issue,21
+2018,"EQUIFAX, INC.",Fraud or scam,5
+2018,Experian Information Solutions Inc.,Identity theft protection or other monitoring services,20
+2020,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Incorrect information on your report,59321
+2020,Experian Information Solutions Inc.,Incorrect information on your report,59747
+2020,"EQUIFAX, INC.",Problem with a credit reporting company's investigation into an existing problem,18218
+2020,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Improper use of your report,3765
+2020,Experian Information Solutions Inc.,Improper use of your report,3731
+2020,Experian Information Solutions Inc.,Problem with a company's investigation into an existing issue,27
+2020,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Identity theft protection or other monitoring services,16
+2020,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with a company's investigation into an existing issue,32
+2020,"EQUIFAX, INC.",Fraud or scam,7
+2020,Experian Information Solutions Inc.,Problem with customer service,23
+2020,Experian Information Solutions Inc.,Identity theft protection or other monitoring services,25
+2022,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unable to get your credit report or credit score,2617
+2022,"EQUIFAX, INC.",Credit monitoring or identity theft protection services,930
+2022,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with fraud alerts or security freezes,517
+2022,"EQUIFAX, INC.",Confusing or misleading advertising or marketing,16
+2022,Experian Information Solutions Inc.,Excessive fees,3
+2015,"EQUIFAX, INC.",Improper use of my credit report,445
+2015,Experian Information Solutions Inc.,Unable to get credit report/credit score,886
+2017,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Incorrect information on credit report,3606
+2015,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Improper use of my credit report,421
+2016,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Improper use of my credit report,478
+2017,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit reporting company's investigation,642
+2016,"EQUIFAX, INC.",Improper use of my credit report,588
+2023,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Confusing or misleading advertising or marketing,23
+2019,"EQUIFAX, INC.",Unable to get your credit report or credit score,1246
+2019,"EQUIFAX, INC.",Problem with fraud alerts or security freezes,862
+2019,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit monitoring or identity theft protection services,280
+2019,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Confusing or misleading advertising or marketing,5
+2019,Experian Information Solutions Inc.,Confusing or missing disclosures,7
+2019,"EQUIFAX, INC.",Unexpected or other fees,4
+2021,Experian Information Solutions Inc.,Problem with a credit reporting company's investigation into an existing problem,14019
+2021,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit monitoring or identity theft protection services,290
+2021,Experian Information Solutions Inc.,Fraud or scam,36
+2021,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Confusing or misleading advertising or marketing,10
+2021,"EQUIFAX, INC.",Confusing or missing disclosures,6
+2013,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit monitoring or identity protection,101
+2012,Experian Information Solutions Inc.,Credit monitoring or identity protection,22
+2012,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Improper use of my credit report,19
+2022,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Unexpected or other fees,8
+2020,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Problem with customer service,4
+2025,"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Dealing with your lender or servicer,1
+2021,Experian Information Solutions Inc.,Getting a credit card,1
